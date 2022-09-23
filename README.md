@@ -1,1 +1,1 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/OindrilaChowdhury/Guru99_LoadTest/blob/master/Guru99-LoadTest.gif)
